@@ -1,5 +1,5 @@
 ---
-title: Lab Notebook
+title: Senay Yitbarek
 role: ""
 bio: ""
 social:
