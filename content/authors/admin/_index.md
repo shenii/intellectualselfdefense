@@ -14,7 +14,7 @@ superuser: true
 status:
   icon: ☕️
 ---
-Hello, I'm Senay and this is my open lab notebook. I am a population ecologist studying host-microbe interactions. The notebook will serve as an accountability tool to streamline projects and track research progress over time. To learn my about my research you can visit my \[website](https://senay.io). This blog was built using the Hugo platform on the Wowchemy site, templating Academic, and hosted on Github.
+Hello, I'm Senay and this is my open lab notebook. I am a population ecologist studying host-microbe interactions. The notebook will serve as an accountability tool to streamline projects and track research progress over time. To learn my about my research you can visit my \[website](http://senay.io/). This blog was built using the Hugo platform on the Wowchemy site, templating Academic, and hosted on Github.
 
 Feel free to reach out with  any questions/suggestions.
 
