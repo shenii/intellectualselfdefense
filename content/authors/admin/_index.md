@@ -4,7 +4,7 @@ role: ""
 bio: Introduction
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: "about/#contact "
   - icon: twitter
     icon_pack: ai
