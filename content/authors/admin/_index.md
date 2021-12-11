@@ -1,8 +1,8 @@
 ---
 title: Senay Yitbarek
 role: ""
-avatar_filename: moon.png
-bio: Introduction
+avatar_filename: senay.png
+bio: ""
 social:
   - icon: envelope
     icon_pack: ai
