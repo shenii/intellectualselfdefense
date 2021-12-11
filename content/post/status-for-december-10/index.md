@@ -2,7 +2,7 @@
 title: Status for December 10
 subtitle: 10 Dec 2021
 date: 2021-12-10T23:14:51.162Z
-summary: ""
+summary: "**Notes**"
 draft: false
 featured: false
 image:
