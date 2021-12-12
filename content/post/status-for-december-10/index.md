@@ -10,7 +10,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**What have I worked on?**
+**What have I worked on?** 
+{style="color: red"}
 
 * reviewing: metabolic meltdown paper
 * meeting: attended a job practice talk
@@ -25,8 +26,6 @@ image:
 * mini-review: reach out to journal editor
 * grant: push out the HOI idea
 * data analysis: priority effects
-
-
 
 **Listening too:**
 
