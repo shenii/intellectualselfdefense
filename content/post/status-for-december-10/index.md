@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 **What have I worked on?** 
-{style="color: Olive}
+{style="color: Olive"}
 
 * reviewing: metabolic meltdown paper
 * meeting: attended a job practice talk
@@ -29,6 +29,6 @@ image:
 * data analysis: priority effects
 
 **Listening too:**
-{style="color: Magenta}
+{style="color: Magenta"}
 
 <iframe src="https://open.spotify.com/embed/album/2IzUZlhtBvPQYs74KeG6fb" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
