@@ -1,5 +1,6 @@
 ---
-title: Status for January 6, 2022
+title: Status for January 6
+subtitle: January 6, 2022
 date: 2022-01-07T04:05:17.251Z
 draft: false
 featured: false
